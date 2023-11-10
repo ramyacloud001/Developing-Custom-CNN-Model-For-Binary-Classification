@@ -44,16 +44,6 @@ For the Entire Project code, You can get it from this repo:
 For support, email ramyasri.adepu0107@gmail.com or join my telegram channel https://t.me/+45TxMt6tkfplYjJl.
 
 
-## Running Tests
-
-
-
-
-To run tests, run the following command
-
-```bash
-  since code was returned on Jupyter notebook we can take help of RUN option 
-```
 
 ## Usage/Examples
 
