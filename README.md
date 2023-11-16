@@ -41,7 +41,7 @@ For the Entire Project code, You can get it from this repo:
 
 ## Support
 
-For support, email ramyasri.adepu0107@gmail.com or join my telegram channel https://t.me/+45TxMt6tkfplYjJl.
+For support, email ramyasri.adepu1601@gmail.com 
 
 
 
